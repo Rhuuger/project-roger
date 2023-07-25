@@ -1,0 +1,17 @@
+:root{
+    --primary-color:black;
+    --secondary-color:green;
+    --tertiary-color:red;
+}
+.bg-primary{
+    background-color: var(--primary-color);
+}
+.bg-secondary{
+    background-color:var(--secondary-color);
+}
+.bg-tertiary{
+    background-color: var(--tertiary-color);
+}
+body{
+    background-color: var(--primary-color);
+}
